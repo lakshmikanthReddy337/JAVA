@@ -10,6 +10,12 @@ public class Sum extends Numbers{
 	@Override
 	void m1()
 		{
-			
+	
+		
+		
+		
+		
+		
+		
 		}
 }
